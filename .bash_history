@@ -4,3 +4,4 @@ nano /etc/network/interfaces
 sudo su
 ifconfig
 sudo su
+exit
